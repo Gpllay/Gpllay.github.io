@@ -1,0 +1,12 @@
+[
+    {
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "br.tec.pegasus.vitrinedacidade",
+        "sha256_cert_fingerprints": [
+          "93:EC:93:9D:6E:93:CC:7E:F2:5D:AD:6B:34:7F:10:E2:9A:C6:EA:0C:05:E5:0D:EB:BE:75:91:C7:13:99:80:08"
+        ]
+      }
+    }
+  ]
